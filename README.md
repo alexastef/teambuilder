@@ -8,7 +8,7 @@
 ## Description
 CLI that helps managers build engineering team roster quickly and easily  
 
-Created with my CLI README generator - [check it out here!](https://github.com/alexastef/readme) 
+This README was created with my CLI README generator - [check it out here!](https://github.com/alexastef/readme) 
 
 
 ## Table of Contents  
