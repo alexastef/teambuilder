@@ -30,9 +30,9 @@ This README was created with my CLI README generator - [check it out here!](http
 ## Usage  
 To get the most out of this repo, user should have an understanding of HTML, JavaScript and ES6, and NodeJS. Jest is used for testing and Inquirer is used for prompts. CSS is all Bootstrap and HTML templates and render functions were provided. I'm not crazy about these and would like to do further development in the future.  
 
-To start application, run npm run:  
+To start application, run npm start:  
  
-    npm run  
+    npm start
  
 
 
